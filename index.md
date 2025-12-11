@@ -1,7 +1,7 @@
 ---
 layout: homepage
 image:
-  feature: banner_anniv.png
+  feature: images/banner_anniv.png
   credit: ""
 title: " "
 ---
