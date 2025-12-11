@@ -1,9 +1,7 @@
 ---
 layout: homepage
 image:
-  feature: /les33ansdethea/images/banner_anniv.png
-  credit: ""
-title: " "
+  feature: banner_anniv.png
 ---
 
 Je fête mes 33 ans!
