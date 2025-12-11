@@ -6,11 +6,11 @@ title: "Venir"
 
 Bienvenue à la maison!
 
-Prends ton maillot pour la piscine, ton chapeau car il va faire chaud, et ton matos si tu veux profiter du Quercy (grimpe, vélo, càp, rando, kayak, baignades en rivières, visites de villages, ...) → + d'infos [ici](https://les33ansdethea.github.io/lequercy/)
+Prends ton maillot pour la piscine, ton chapeau car il va faire chaud, et ton matos si tu veux profiter du Quercy (grimpe, vélo, càp, rando, kayak, baignades en rivières, visites de villages, ...) → + d'infos [ici](https://thearagon.github.io/les33ansdethea/lequercy/)
 
 <iframe width="100%" height="300px" frameborder="0" allowfullscreen allow="geolocation" src="https://umap.openstreetmap.fr/en/map/les-33-ans-de-thea_1330678#10/44.4847/1.6411"></iframe>
 
-<!--![mapmaison](/venir/mapmaison.png){: .align-left} -->
+→ [Pour ouvrir la carte dans ton navigateur](https://umap.openstreetmap.fr/en/map/les-33-ans-de-thea_1330678)
 
 Adresse:  
 1320 route de Pauliac, 46230 Cieurac
