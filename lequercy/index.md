@@ -13,7 +13,7 @@ Sur cette page tu trouves des détails sur:
 
 
 
-## Le Lot et le parc naturel en bref {#lelot}
+## 🔥 Le Lot et le parc naturel en bref {#lelot}
 
 Le Lot c'est un petit département situé au nord de Toulouse, qui est entouré des départements de l'Aveyron, de la Dordogne et du Lot et Garonne. Au Nord, il est traversé par la rivière de la Dordogne, et au sud par le Célé et le Lot. 
 
@@ -23,7 +23,7 @@ Dans le Lot, on trouve de tout: des paysages variés (des causses au gorges), de
 
 Ne pas hésiter à pousser vers le Sud jusque Saint-Antonin-Noble-Val et ses environs: les gorges de l'Aveyron sont sublimes, le village est magnifique, et la rando et la grimpe y sont majeures aussi!
 
-### Les spécialités culinaires du coin
+#### Les spécialités culinaires du coin
 - la truffe du Quercy
 - le safran et le melon
 - le vin, du Malbec principalement, mais pas seulement!
@@ -31,20 +31,20 @@ Ne pas hésiter à pousser vers le Sud jusque Saint-Antonin-Noble-Val et ses env
 - les cabécous, des petits fromages de chèvre, à manger frais ou affiné
 
 
-## Le sud du Lot et le causse de Limogne {#lotsud}
+## 🔥 Le sud du Lot et le causse de Limogne {#lotsud}
 
 Le meilleur endroit où loger, manger, boire et chiller c'est bien entendu chez les Ragon! 
 
 En plus des balades à pieds, à poney ou à vélo pour s'imprégner de l'ambiance du coin, il y a plein de trucs à faire autour, à moins de 30 min en voiture. Voici une petite liste non exhaustive:
 
-### Curiosités naturelles
+#### Curiosités naturelles
 
 - La grotte ornée préhistorique de Pech-Merle
 - Les phosphatières du Cloup d'Aural, une ancienne mine de phosphate qui a permis de mettre à jour plein de fossiles
 - Les igues d'Aujols, à faire en balade ou en spéléo
 
 
-### Cités pittoresques
+#### Cités pittoresques
 
 - Se balader à Saint-Cirq Lapopie, prendre au moins la journée
 - Passer par le château de Cénevières
@@ -57,7 +57,7 @@ En plus des balades à pieds, à poney ou à vélo pour s'imprégner de l'ambian
 - Si un peu de temps, pousser vers l'Ouest jusque Montcuq puis Puy-l'Évêque, deux superbes villages. Revenir par la vallée du Lot et faire un stop à Albas.  ♥️
 
 	
-### Balades et nature
+#### Balades et nature
 
 - Se balader sur le chemin de halage à Bouziès (10 km aller-retour), et pousser jusque Saint-Cirq Lapopie
 - Descendre le Lot en kayak
@@ -67,7 +67,7 @@ En plus des balades à pieds, à poney ou à vélo pour s'imprégner de l'ambian
 - Je peux pas tout lister mais le Quercy c'est le paradis des chemins. S'y perdre sans modération
 
 
-### Bonnes adresses et évenements
+#### Bonnes adresses et évenements
 - La ferme de Cantagrel
 - Le bois de la Logette
 - Brasserie Ratz
@@ -77,7 +77,7 @@ En plus des balades à pieds, à poney ou à vélo pour s'imprégner de l'ambian
 - Librairie du Chat Huant à Limogne en Quercy
 - 
 
-## La vallée du Célé {#cele}
+## 🔥 La vallée du Célé {#cele}
 
 Trop chouette ♥️
 
@@ -95,7 +95,7 @@ Moins de gros sites d'intérêt que le nord du Lot, mais plein de petits coins s
 - à côté, le musée de l'insolite ♥️
 
 
-## Cahors {#cahors}
+## 🔥 Cahors {#cahors}
 Le mieux c'est de tout faire à pieds. Arrivée par le train ou en bus possible. Si en voiture, il y a généralement des places gratuites sur la place Charles de Gaulle, en haut du boulevard. Si c'est plein, redescendre et retraverser le Lot pour aller au parking des chartreux. Faisable en 1 jour, mieux en deux. 
 
 Quelques classiques:
@@ -106,7 +106,7 @@ Quelques classiques:
 - Monter au Mont Saint-Cyr pour admirer la vue.
 
 
-## Le nord du Lot {#lotnord}
+## 🔥 Le nord du Lot {#lotnord}
 À ne pas louper:
 - Le village médiéval de Carennac
 - Le gouffre de Padirac, profond de 100m et plus de 55 km de galeries
@@ -120,15 +120,15 @@ Quelques classiques:
 - Les grottes de Lacave
 - Le village médiéval de Cardaillac, se ballader vers le Lac des Sagnes
 
-## Activités sportives {#sport}
+## 🔥 Activités sportives {#sport}
 
-### Grimpe
+#### Grimpe
 Il y en a pour tous les niveaux. Ca grimpe pas loin de la maison, à Arcambal, Cuzouls, Vers et St Géry. Les sites majeurs pas trop loin sont à St Antonin et Autoire. J'ai le topo du Lot, mais pas de St Antonin!
 
-### Vélo en itinérance ou non
+#### Vélo en itinérance ou non
 Il y a [2 véloroutes](https://www.tourisme-lot.com/velo/veloroutes/) qui passent à 2 pas de la maison! Et pas mal de [circuits officiels proposés](https://www.tourisme-lot.com/velo/circuits-velo/)
 
-### Rando
+#### Rando
 Il y a de quoi faire… mais il fera chaud en juillet!
 
 

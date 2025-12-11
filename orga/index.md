@@ -12,13 +12,13 @@ Sur cette page tu trouves des détails sur:
 - [**en résumé: LA liste ultime des choses à amener**](#liste)
 
 
-### Le lieu {#lelieu}    
+### 🔥 Le lieu {#lelieu}    
 
 Bienvenue à la maison! Prends ton maillot pour la piscine, ton chapeau car il va faire chaud, ta bonne humeur et ton envie de faire la fête!
 
 Merci de respecter le lieu, en particulier en suivant [ces recommandations](https://les33ansdethea.github.io/orga/#recom) :)
 
-### Manger {#manger}
+### 🔥 Manger {#manger}
 
 Il y aura un foodtruck samedi soir.
 
@@ -37,7 +37,7 @@ Pour les petits dej:
 Pour celleux qui restent après dimanche soir, on décidera ensemble
 
 
-### Boire {#boire}
+### 🔥 Boire {#boire}
 Je me charge de fournir:
 - de la bière pression de la brasserie Bélier (*locale*, de St Antonin, IPA et blonde)
 - de la Diz' (boisson pétillante *très locale* aux plantes sans sucre sans alcool)
@@ -46,19 +46,19 @@ Je me charge de fournir:
 
 Si tu veux boire autre chose (alcool fort, autre soft, ...), amène le, et remporte le avec toi! Non je ne veux pas me retrouver avec 40.000 bouteilles à moitié pleines ;)
 
-### Money money money {#money}
+### 🔥 Money money money {#money}
 Il te faudra du cash pour remercier les artistes (qui seront au chapeau) et pour prendre à manger au foodtruck. 
 
 PAF: Je mettrai aussi à disposition une petite tirelire pour celleux qui veulent aider un peu plus, mais rien d'obligatoire, si déjà tu es là c'est le principal!
 
-### Qui {#qui}
+### 🔥 Qui {#qui}
 Tu peux amener qui tu veux avec toi, si c'est des gens cools. Me prévenir via la feuille ou par sms.
 
 Les enfant-es sont les bienvenu-es!
 
 Les chiens bien élevés sont bienvenus! La maison n'est pas clôturée et il y a d'autres chiens, des chats, des chevaux, des vaches, des poules, des enfants… → si ca risque de poser problème, alors ne ramène pas ton chien.
 
-### LA liste ultime des choses à amener {#liste}
+### 🔥 LA liste ultime des choses à amener {#liste}
 
 Indispensables:
 - ta bonne humeur!
@@ -73,7 +73,7 @@ Dispensables:
 - des trucs à boire si les options ne te conviennent pas
 - ton matos sportif (ou non) [si tu veux profiter du coin](https://thearagon.github.io/les33ansdethea/lequercy/)
 
-### Les recommendations de la maison {#recom}
+### 🔥 Les recommendations de la maison {#recom}
 
 - !!! **PAS DE FEU** !!! **pas de feu de camp, pas de barbecue, faire très attention à tes mégots, etc. C'est très sec et tout peut brûler très vite. Merci d'être responsable :)**
 - Ne pas endommager la flore, ne pas couper d'arbres, rester sur les chemins
