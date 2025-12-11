@@ -17,8 +17,8 @@ En résumé:
 - **Manger**: foodtruck le 4 au soir, méga ratatouille le 5, les repas restants seront partagés! [+ d'infos](https://thearagon.github.io/les33ansdethea/orga/#manger)
 - **Programme**: temps chill et objectif groupes et DJ les 4 et/ou 5, pièce de théâtre le 5, et scènes ouvertes!
 
-\<br/>
-  
+\
+\
 🔥 Si tu ne dois lire qu'une chose → [**LA liste ultime des choses à amener**](https://thearagon.github.io/les33ansdethea/orga/#liste)
 
 **Point sécurité important:** !!! Ne pas faire de feu!!! Pas de feu de camps, pas de barbecue, faire très attention à tes mégots.
