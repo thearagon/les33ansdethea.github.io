@@ -6,7 +6,7 @@ image:
 
 Je fête mes 33 ans!
 
-**Confirme moi ta venue par sms ou [ici](https://thearagon.github.io/les33ansdethea/quivient/) au plus tôt et avant le 1er avril 2026**
+**Confirme moi ta venue par sms ou [*ici*](https://thearagon.github.io/les33ansdethea/quivient/) au plus tôt et avant le 1er avril 2026**
 {: .noticeco} 
 
   
