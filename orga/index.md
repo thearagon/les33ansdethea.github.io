@@ -28,7 +28,7 @@ Je préparerai une grande ratatouille pour dimanche soir.
 Pour les autres repas, on aura un fonctionnement bimodal:
 - celleux qui peuvent ramènent des plats végétariens préparés en avance qui se mangent froid (salades, cakes, desserts, tartes, ...)
 - on préparera toutes et tous ensemble des salades ou plats en sauce si besoin.
-→ *tu peux indiquer ce que tu ramènes sur* [*la feuille de présence*](https://les33ansdethea.github.io/quivient/)
+→ *tu peux indiquer ce que tu ramènes sur* [*la feuille de présence*](https://thearagon.github.io/les33ansdethea/quivient/)
 
 Pour les petits dej:
 - chacun-e ramène du petit dej à partager
@@ -66,12 +66,12 @@ Indispensables:
 - ton maillot, serviette, chapeau
 - du cash pour les artistes au chapeau et le foodtruck
 - du petit dej à partager
-- un truc à manger à partager pour les repas hors samedi soir OU des ingrédients manquants (cf [Manger](https://les33ansdethea.github.io/orga/#manger))
+- un truc à manger à partager pour les repas hors samedi soir OU des ingrédients manquants (cf [Manger](https://thearagon.github.io/les33ansdethea/orga/#manger))
 - ton ou tes instruments de musique - dis moi si tu es chaud·e pour une scène ouverte!
 
 Dispensables:
 - des trucs à boire si les options ne te conviennent pas
-- ton matos sportif (ou non) [si tu veux profiter du coin](https://les33ansdethea.github.io/lequercy/)
+- ton matos sportif (ou non) [si tu veux profiter du coin](https://thearagon.github.io/les33ansdethea/lequercy/)
 
 ### Les recommendations de la maison {#recom}
 
