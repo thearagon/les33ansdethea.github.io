@@ -5,7 +5,7 @@ locale: fr-FR
 url:
 image:
   feature: 
-baseurl: /thearagon.github.io/les33ansdethea
+baseurl: /thearagon.github.io/les33ansdethea/
 
 # Jekyll configuration
 
