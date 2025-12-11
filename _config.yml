@@ -2,10 +2,10 @@
 
 title: Les 33 ans de Théa
 locale: fr-FR
-url:
+url: https://thearagon.github.io/les33ansdethea
 image:
   feature: 
-baseurl: /les33ansdethea
+baseurl: https://thearagon.github.io/
 
 # Jekyll configuration
 
