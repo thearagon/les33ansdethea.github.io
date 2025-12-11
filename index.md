@@ -1,7 +1,7 @@
 ---
 layout: homepage
 image:
-  feature: images/banner_anniv.png
+  feature: /les33ansdethea/images/banner_anniv.png
   credit: ""
 title: " "
 ---
