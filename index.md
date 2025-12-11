@@ -7,7 +7,7 @@ image:
 Je fête mes 33 ans!
 
 Confirme moi ta venue par sms ou [ici](https://les33ansdethea.github.io/quivient/) au plus tôt et avant le 1er avril 2026
-{: .notice} 
+{: .noticeco} 
 
 En résumé:
 - **Quand**: du 4 au 6 juillet 2026, arrivée anticipée ou départ retardé encouragés ;)
