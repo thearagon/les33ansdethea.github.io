@@ -12,14 +12,16 @@ Prends ton maillot pour la piscine, ton chapeau car il va faire chaud, et ton ma
 
 → [Pour ouvrir la carte dans ton navigateur](https://umap.openstreetmap.fr/en/map/les-33-ans-de-thea_1330678)
 
-Adresse:  
+<!-- Adresse:  
 1320 route de Pauliac, 46230 Cieurac
 {: .notice} 
 
 Coordonnées:  
 44.3537753, 1.51009752
-{: .notice} 
+{: .notice}  -->
 
+J'enverrai l'adresse précise + tard, mais si besoin demande la moi!
+{: .notice} 
 
 ### Venir en vélo
 
@@ -33,9 +35,9 @@ Les petites routes du Quercy sont bien adaptées au voyage à vélo car généra
 
 S'arrêter à la gare de Lalbenque-Fontanes.
 
-🥾 La gare est à moins d'1 heure à pieds en passant par les chemins; voir le plan ci dessous (option 2)
+🥾 La gare est à moins d'1 heure à pieds en passant par les chemins; voir la carte au dessus, trajet ROSE
 
-🚴‍♀️ La gare est à 15 min à vélo de la maison. Suivre l'option 1 sur le plan ci dessous. Attention, l'option 2 (voir plan ci dessous) ne passera qu'avec un VTT ou gravel, ou en marchant!
+🚴‍♀️ La gare est à 15 min à vélo de la maison. Suivre le trajet VIOLET sur la carte. Attention, l'option ROSE ne passera qu'avec un VTT ou gravel, ou en marchant!
 
 🚙 Je pourrai organiser quelques navettes en fonction des arrivées, c'est 5 min en voiture. Dis moi si ca t'intéresse!
 
