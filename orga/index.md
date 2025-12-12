@@ -11,9 +11,7 @@ Sur cette page tu trouves des détails sur:
 - [qui tu peux ramener](#qui)
 - [**en résumé: LA liste ultime des choses à amener**](#liste)
 
-\
-
-
+  
 ### 🔥 Le lieu {#lelieu}    
 
 Bienvenue à la maison! Prends ton maillot pour la piscine, ton chapeau car il va faire chaud, ta bonne humeur et ton envie de faire la fête!
@@ -26,10 +24,10 @@ Il y aura un foodtruck samedi soir.
 
 Je préparerai une grande ratatouille pour dimanche soir.
 
-↓ *Les infos suivantes seront mises à jour au printemps*
-Pour les autres repas, on aura un fonctionnement bimodal-
-- celleux qui peuvent ramènent des plats végétariens préparés en avance qui se mangent froid (salades, cakes, desserts, tartes, ...)
-- on préparera toutes et tous ensemble des salades ou plats en sauce si besoin.
+↓ *Les infos suivantes seront mises à jour au printemps*  
+Pour les autres repas, on aura un fonctionnement bimodal  
+→ celleux qui peuvent ramènent des plats végétariens préparés en avance qui se mangent froid (salades, cakes, desserts, tartes, ...)  
+→ on préparera toutes et tous ensemble des salades ou plats en sauce si besoin.  
 → *tu peux indiquer ce que tu ramènes sur* [*la feuille de présence*](https://thearagon.github.io/les33ansdethea/quivient/)
 {: .notice}
 
@@ -76,7 +74,6 @@ Dispensables:
 - des trucs à boire si les options ne te conviennent pas
 - ton matos sportif (ou non) [si tu veux profiter du coin](https://thearagon.github.io/les33ansdethea/lequercy/)
 
-\
 
 ### 🔥 Les recommendations de la maison {#recom}
 
